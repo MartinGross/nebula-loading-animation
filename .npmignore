@@ -1,0 +1,45 @@
+# Source files
+src/
+demo/
+examples/
+docs/
+
+# Development files
+.eslintrc.js
+rollup.config.js
+tsconfig.json
+
+# Demo and examples
+demo/
+examples/
+*.example.*
+
+# Development dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage
+coverage/
+
+# Build tools
+.nyc_output
+
+# Development cache
+.cache/
+.parcel-cache/
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+tmp/
+temp/
