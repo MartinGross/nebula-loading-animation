@@ -45,7 +45,7 @@ function App() {
 ### Vanilla JavaScript
 
 ```html
-<script src="https://unpkg.com/nebula-loading-animation/dist/index.js"></script>
+<script src="/dist/index.js"></script>
 <script>
   const loader = createLoadingAnimation();
   loader.show();
