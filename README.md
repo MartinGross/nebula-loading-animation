@@ -296,8 +296,8 @@ Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md)
 
 ## License
 
-MIT © [Nebula Design](LICENSE)
+MIT © [fluxum engineering](LICENSE)
 
 ---
 
-Made with ❤️ by the Nebula Design team
+Made with ❤️ in Germany by fluxum engineering
